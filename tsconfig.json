@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    /* Modules */
+    "module": "commonjs",
+
+    "moduleResolution": "node",
+    "rootDir": "./src",
+    "baseUrl": ".",
+    // "paths": {
+    //   "@app/*": ["./src/*"]
+    // },
+
+    /* JavaScript Support */
+    "allowJs": true,
+
+    /* Emit */
+    "outDir": "dist",
+    "removeComments": true,
+    "esModuleInterop": true,
+
+    /* Type Checking */
+    "strict": true,
+    "noImplicitAny": true
+  },
+  "include": ["src/**/*", "**/*.spect.ts", "**/*.test.ts"],
+  "assets": ["**/*.html"]
+}

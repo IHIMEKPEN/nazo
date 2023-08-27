@@ -1,0 +1,179 @@
+{"level":"error","message":"Not Found: can not make a GET request to /stations/available-stations?price=5,30&limit=20&currentBatterySize=20&latitude=90.23232&longitude=10.22324","timestamp":"29/01/2023 09:20:28"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/01/2023 09:21:59"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"29/01/2023 09:22:19"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"29/01/2023 09:22:37"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"29/01/2023 09:22:42"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/01/2023 09:24:18"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/01/2023 09:31:09"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/01/2023 09:31:23"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/01/2023 09:31:41"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/01/2023 09:34:43"}
+{"level":"error","message":"$geoNear requires a 2d or 2dsphere index, but none were found","timestamp":"29/01/2023 09:35:14"}
+{"level":"error","message":"invalid or expired token provided","timestamp":"29/01/2023 09:49:08"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"29/01/2023 09:49:16"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 10:02:04"}
+{"level":"error","message":"\ud83e\udd22 Database Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"29/01/2023 10:18:26"}
+{"level":"error","message":"🤢 Database Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.wm4hu.mongodb.net","timestamp":"29/01/2023 10:18:50"}
+{"level":"error","message":"🤢 Database Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.wm4hu.mongodb.net","timestamp":"29/01/2023 10:19:26"}
+{"level":"error","message":"🤢 Database Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.wm4hu.mongodb.net","timestamp":"29/01/2023 10:19:54"}
+{"level":"error","message":"\ud83e\udd22 Database Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"29/01/2023 10:20:42"}
+{"level":"error","message":"\ud83e\udd22 Database Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"29/01/2023 10:21:59"}
+{"level":"error","message":"\ud83e\udd22 Database Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"29/01/2023 10:41:31"}
+{"level":"error","message":"\ud83e\udd22 Database Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"29/01/2023 10:49:34"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 11:00:17"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:02:14"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:11:37"}
+{"level":"error","message":"station email address field is required","timestamp":"29/01/2023 11:15:06"}
+{"level":"error","message":"station phone number field is required","timestamp":"29/01/2023 11:15:57"}
+{"level":"error","message":"station port label is required","timestamp":"29/01/2023 11:16:25"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:23:35"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 11:25:05"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:25:58"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:36:14"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:40:17"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:43:19"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:43:59"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 11:47:33"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 11:51:30"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 11:51:55"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 11:54:20"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 12:10:30"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 12:13:39"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 13:22:01"}
+{"level":"error","message":"There is more than one 2dsphere index on bluetanks.stations; unsure which to use for $geoNear","timestamp":"29/01/2023 13:30:13"}
+{"level":"error","message":"invalid or expired token provided","timestamp":"29/01/2023 13:31:17"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 643737.591957915","timestamp":"29/01/2023 13:33:22"}
+{"level":"error","message":"geo near accepts just one argument when querying for a GeoJSON point. Extra field found: $maxDistance: 400000.0","timestamp":"29/01/2023 13:42:12"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 13:45:35"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 13:49:57"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 13:51:26"}
+{"level":"error","message":"invalid argument in geo near query: type","timestamp":"29/01/2023 14:04:31"}
+{"level":"error","message":"Legacy point is out of bounds for spherical query","timestamp":"29/01/2023 14:05:23"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/01/2023 14:19:02"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"03/02/2023 14:04:10"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"03/02/2023 14:04:26"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"03/02/2023 14:08:22"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"03/02/2023 15:21:48"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"04/02/2023 16:50:24"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"17/02/2023 14:51:28"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"17/02/2023 14:51:39"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"17/02/2023 14:51:41"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"20/02/2023 12:58:24"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"20/02/2023 13:04:30"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"20/02/2023 14:00:56"}
+{"level":"error","message":"Can't use $exist with Array.","timestamp":"20/02/2023 14:04:45"}
+{"level":"error","message":"Can't use $exist with Array.","timestamp":"20/02/2023 14:09:00"}
+{"level":"error","message":"unknown operator: $exist","timestamp":"20/02/2023 14:09:58"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"20/02/2023 14:11:51"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"20/02/2023 14:27:18"}
+{"level":"error","message":"Not Found: can not make a GET request to /api/v1/location","timestamp":"20/02/2023 23:09:08"}
+{"level":"error","message":"🤢 Database Error: Server selection timed out after 30000 ms","timestamp":"20/02/2023 23:10:25"}
+{"level":"error","message":"\ud83e\udd22 Database Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"20/02/2023 23:12:04"}
+{"level":"error","message":"🤢 Database Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.wm4hu.mongodb.net","timestamp":"20/02/2023 23:14:56"}
+{"level":"error","message":"\ud83e\udd22 Database Error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/","timestamp":"20/02/2023 23:16:22"}
+{"level":"error","message":"🤢 Database Error: connection timed out","timestamp":"25/02/2023 10:44:56"}
+{"level":"error","message":"🤢 Database Error: connection timed out","timestamp":"13/03/2023 18:12:28"}
+{"level":"error","message":"🤢 Database Error: connection timed out","timestamp":"13/03/2023 18:53:27"}
+{"level":"error","message":"Duplicate Request","timestamp":"16/03/2023 13:18:16"}
+{"level":"error","message":"Duplicate Request","timestamp":"16/03/2023 13:20:11"}
+{"level":"error","message":"Duplicate Request","timestamp":"16/03/2023 13:20:14"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","timestamp":"16/03/2023 13:20:36"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","timestamp":"16/03/2023 13:20:45"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","timestamp":"16/03/2023 13:21:13"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","timestamp":"16/03/2023 13:21:34"}
+{"level":"error","message":"Duplicate Request","timestamp":"16/03/2023 13:24:03"}
+{"level":"error","message":"Duplicate Request","timestamp":"16/03/2023 13:27:29"}
+{"level":"error","message":"Not Found: can not make a GET request to /api/v1/auth/login","timestamp":"16/03/2023 13:29:58"}
+{"level":"error","message":"Duplicate Request","timestamp":"16/03/2023 13:30:10"}
+{"level":"error","message":"Duplicate Request","timestamp":"16/03/2023 13:43:03"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"16/03/2023 13:53:34"}
+{"level":"error","message":"station email address field is required","timestamp":"22/03/2023 16:56:14"}
+{"level":"error","message":"station phone number field is required","timestamp":"22/03/2023 16:57:48"}
+{"level":"error","message":"station port label is required","timestamp":"22/03/2023 16:58:49"}
+{"level":"error","message":"station port label is required","timestamp":"22/03/2023 17:04:53"}
+{"level":"error","message":"station port label is required","timestamp":"22/03/2023 17:07:33"}
+{"level":"error","message":"station port label is required","timestamp":"22/03/2023 17:08:51"}
+{"level":"error","message":"DC is not a supported value for port type","timestamp":"22/03/2023 17:09:22"}
+{"level":"error","message":"DC is not a supported value for port type","timestamp":"22/03/2023 17:12:53"}
+{"level":"error","message":"Level 3 is not a supported value for port type","timestamp":"22/03/2023 17:13:17"}
+{"level":"error","message":"LEVEL 3 is not a supported value for port type","timestamp":"22/03/2023 17:15:19"}
+{"level":"error","message":"station port label is required","timestamp":"22/03/2023 17:16:28"}
+{"level":"error","message":"invalid station code provided","timestamp":"23/03/2023 15:51:25"}
+{"level":"error","message":"invalid station code provided","timestamp":"23/03/2023 15:53:54"}
+{"level":"error","message":"invalid station code provided","timestamp":"23/03/2023 15:54:54"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"24/03/2023 16:19:57"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"24/03/2023 16:22:29"}
+{"level":"error","message":"stations is not iterable","timestamp":"29/03/2023 08:13:15"}
+{"level":"error","message":"stations is not iterable","timestamp":"29/03/2023 08:15:02"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"29/03/2023 08:45:04"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","timestamp":"29/03/2023 08:45:43"}
+{"level":"error","message":"station with id: 626e9baad90b5f1bcc2ba19d not found","timestamp":"29/03/2023 09:30:14"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"29/03/2023 09:30:41"}
+{"level":"error","message":"Failed to optimize pipeline :: caused by :: $multiply only supports numeric types, not string","timestamp":"01/04/2023 17:23:33"}
+{"level":"error","message":"Invalid jwt token provided","timestamp":"01/04/2023 17:49:22"}
+{"level":"error","message":"🤢 Database Error: connection timed out","timestamp":"06/04/2023 09:18:46"}
+{"level":"error","message":"$function not allowed in this atlas tier","timestamp":"06/04/2023 09:27:18"}
+{"level":"error","message":"Status is REQUEST_DENIED. This API key is not authorized to use this service or API.","timestamp":"06/04/2023 09:55:52"}
+{"level":"error","message":"origin is not defined","timestamp":"06/04/2023 10:03:10"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"06/04/2023 10:04:33"}
+{"level":"error","message":"origin is not defined","timestamp":"06/04/2023 10:04:44"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:05:34"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:06:53"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:12:09"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:21:05"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:23:31"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:25:11"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:27:48"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:28:24"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:31:33"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:33:05"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:36:41"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 10:43:28"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'elements')","timestamp":"06/04/2023 11:44:46"}
+{"level":"error","message":"Not Found: can not make a POST request to /api/v1/receipt","timestamp":"20/04/2023 12:45:12"}
+{"level":"error","message":"Not Found: can not make a POST request to /api/v1/finance/receipt/","timestamp":"20/04/2023 12:45:38"}
+{"level":"error","message":"🤢 Database Error: Server selection timed out after 30000 ms","timestamp":"20/04/2023 13:02:20"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"20/04/2023 13:03:06"}
+{"level":"error","message":"file upload failed","timestamp":"21/04/2023 13:41:17"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"21/04/2023 13:45:43"}
+{"level":"error","message":"file upload failed","timestamp":"21/04/2023 13:46:55"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"21/04/2023 15:17:49"}
+{"level":"error","message":"🤢 Database Error: Server selection timed out after 30000 ms","timestamp":"21/04/2023 15:18:00"}
+{"level":"error","message":"file upload failed","timestamp":"21/04/2023 15:19:33"}
+{"level":"error","message":"Not Found: can not make a GET request to /api/v1/finance/subscription","timestamp":"21/04/2023 18:07:44"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'country')","timestamp":"21/04/2023 18:08:26"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'country')","timestamp":"21/04/2023 18:11:38"}
+{"level":"error","message":"No such price: 'price_1MzNwyFHqksXZK5qBGo7N5Gr'; a similar object exists in test mode, but a live mode key was used to make this request.","timestamp":"21/04/2023 18:47:02"}
+{"level":"error","message":"file upload failed","timestamp":"25/04/2023 00:36:05"}
+{"level":"error","message":"file upload failed","timestamp":"25/04/2023 00:36:44"}
+{"level":"error","message":"file upload failed","timestamp":"25/04/2023 00:38:30"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'test.pdf'","timestamp":"25/04/2023 01:24:11"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'test.pdf'","timestamp":"25/04/2023 08:06:14"}
+{"level":"error","message":"🤢 Database Error: Server selection timed out after 30000 ms","timestamp":"27/04/2023 10:17:30"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","timestamp":"01/05/2023 08:38:00"}
+{"level":"error","message":"a value: 'O.ihi.mekpen@gmail.com' for 'email' already exist, 'email' must be a unique value.","timestamp":"01/05/2023 08:54:37"}
+{"level":"error","message":"Not Found: can not make a GET request to /favicon.ico","timestamp":"01/05/2023 09:17:01"}
+{"level":"error","message":"🤢 Database Error: Server selection timed out after 30000 ms","timestamp":"02/05/2023 15:47:08"}
+{"level":"error","message":"🤢 Database Error: Server selection timed out after 30000 ms","timestamp":"04/05/2023 21:41:52"}
+{"level":"error","message":"🤢 Database Error: connection timed out","timestamp":"04/05/2023 22:01:17"}
+{"level":"error","message":"Not Found: can not make a POST request to /api/v1/auth/register","timestamp":"04/05/2023 22:02:14"}
+{"level":"error","message":"Not Found: can not make a POST request to /api/v1/auth/register","timestamp":"04/05/2023 22:13:34"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:465: failed to send mail to oihimekpen@gmail.com","timestamp":"04/05/2023 22:14:33"}
+{"level":"error","message":"Not Found: can not make a GET request to /api/v1","timestamp":"04/05/2023 22:18:02"}
+{"level":"error","message":"email address not verified","timestamp":"04/05/2023 22:19:37"}
+{"level":"error","message":"the email or password provided is incorrect","timestamp":"04/05/2023 22:33:24"}
+{"level":"error","message":"connect ETIMEDOUT 204.74.99.100:465: failed to send mail to oihimekpen@gmail.com","timestamp":"04/05/2023 22:34:46"}
+{"level":"error","message":"a value: 'oihimekpen@gmail.com' for 'email' already exist, 'email' must be a unique value.","timestamp":"04/05/2023 23:25:35"}
+{"level":"error","message":"Can't extract geo keys: { _id: ObjectId('645430e860abd2524fdcd7e2'), email: \"oihimekpen@gmail.com\", password: \"$2b$10$7jpyN8Ctj1BIOSsA0TJc2OYyBcL0a4ZEn0XLAauAWHjP/RsCw8/6e\", type: \"HOUSE_HOLD\", firstname: \"osemudiamen\", lastname: \"ihimekpen\", isVerified: false, location: { coordinates: [] }, billings: { banks: [] }, status: \"ACTIVE\", createdAt: new Date(1683239144229), updatedAt: new Date(1683239144229), __v: 0 }  unknown GeoJSON type: { coordinates: [] }","timestamp":"04/05/2023 23:25:44"}
+{"level":"error","message":"connect ETIMEDOUT 204.74.99.100:465: failed to send mail to oihimekpen@gmail.com","timestamp":"04/05/2023 23:34:05"}
+{"level":"error","message":"email address not verified","timestamp":"04/05/2023 23:40:54"}
+{"level":"error","message":"Request failed with status code 401","timestamp":"04/05/2023 23:50:50"}
+{"level":"error","message":"Request failed with status code 401","timestamp":"04/05/2023 23:50:50"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"04/05/2023 23:54:27"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"04/05/2023 23:54:27"}
+{"level":"error","message":"the code field is missing or does not have a value","timestamp":"04/05/2023 23:58:58"}
+{"level":"error","message":"ENOENT: no such file or directory, stat '/Users/mac/error.log'","timestamp":"04/05/2023 23:59:31"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"05/05/2023 00:02:22"}
+{"level":"error","message":"Request failed with status code 400","timestamp":"05/05/2023 00:02:22"}
+{"level":"error","message":"ENOENT: no such file or directory, open '/Users/mac/Downloads/programming/feebh/src/views/emails/password-reset.hbs'","timestamp":"05/05/2023 00:16:38"}
+{"level":"error","message":"Server Error: error occurred while sending mail","timestamp":"05/05/2023 00:16:38"}
