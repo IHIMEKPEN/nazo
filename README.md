@@ -2,28 +2,25 @@
 
 ### Description
 
-Bluetanks is a mobile appilcation that hepls users to easily find a grid station around them to either charge their ev cars or give back power to the grid for a fee"
+"Nazo shows how i organise my project struture simulatenusly paying attention to reusable, scalable and neat codebase, this will make it highly maintainable."
 
 ---
 
-### Bluetank Features
+### Features
 
-- Users can signup
-- Create/Add EV car details
-- Find nearest grid to recharge their EV cars, known as G2V
-- Find nearest grid to sell power to, known as V2G
-- Users can also schedule future transactions with grid
-- Users can pay to grid and have account credited after selling to grid
-- Payment Integration with Stripe Payments
+- User Authentication and Authorisation
+- CRUD functionality for post(like a simple blog)
+- Integration and Unit Tests
+
+
 
 ---
 
 ### Installation Guide
 
 - Clone the project by using `git clone`
-- Run `yarn install` to install dependencies
-- Run `yarn compile` script to compile the Ts files
-- Run `yarn dev` script to start the server
+- Run `npm install` to install dependencies
+- Run `npm run dev` script to start the server
 - Visit `http://localhost:5000/` to test api
 
 [View the API endpoint documentation](./docs/API.md)
@@ -41,9 +38,5 @@ Bluetanks is a mobile appilcation that hepls users to easily find a grid station
 
 ### Authors
 
-- [Victor Nwagu](https://github.com/nwaguvictor)
-- ![alt text](https://avatars.githubusercontent.com/u/57344416?s=150&u=4d1fc6b478aa46c20de562c1a972f510df6dee9d&v=4)
-
-
-docker build . -t bluetanks
-docker run -p 2022:2022 bluetanks
+- [Andrew Ihimekpen](https://github.com/IHIMEKPEN)
+- ![alt text](https://avatars.githubusercontent.com/u/75396799?v=4)
