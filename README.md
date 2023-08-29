@@ -1,8 +1,8 @@
-# Bluetanks Api
+# Nazo Api
 
 ### Description
 
-"Nazo shows how i organise my project struture simulatenusly paying attention to reusable, scalable and neat codebase, this will make it highly maintainable."
+Nazo shows how i organise my project folders and simulatenusly paying attention to writing reusable, scalable and neat code, this will make it highly maintainable.
 
 ---
 
